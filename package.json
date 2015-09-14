@@ -3,13 +3,13 @@
   "homepage": "http://www.chartjs.org",
   "description": "StackedBar implementation for Chart.js",
   "private": true,
-  "version": "1.0.0-beta",
+  "version": "1.0.1-dk9",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Regaddi/Chart.StackedBar.js.git"
+    "url": "https://github.com/nexces/Chart.StackedBar.js.git"
   },
   "dependences": {
-    "Chart.js": ">= 1.0.0-beta"
+    "nexces/Chart.js": ">= 1.0.1-dk9"
   },
   "devDependencies": {
     "gulp": "3.5.x",
