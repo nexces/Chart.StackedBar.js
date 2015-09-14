@@ -8,8 +8,8 @@
     "type": "git",
     "url": "https://github.com/nexces/Chart.StackedBar.js.git"
   },
-  "dependences": {
-    "nexces/Chart.js": ">= 1.0.1-dk9"
+  "dependencies": {
+    "Chart.js": "nexces/Chart.js.git#1.0.1-dk9"
   },
   "devDependencies": {
     "gulp": "3.5.x",

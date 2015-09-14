@@ -8,6 +8,6 @@
     "Chart.StackedBar.js"
   ],
   "dependencies": {
-    "nexces/Chart.js": "1.0.1-dk9"
+    "Chart.js": "nexces/Chart.js#1.0.1-dk9"
   }
 }
